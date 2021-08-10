@@ -1,5 +1,5 @@
 # Alexander
-Alexander is a chatbot made in python. it uses AI to respond to questions and awsers with the most appropriate option.
+<h3>Alexander is a chatbot made in python. it uses AI to respond to questions and awsers with the most appropriate option.</h3>
 
 <h1>LINUX USAGE:</h1>
 <h2><br>git clone https://github.com/AstroBolo/Alexander.git
