@@ -4,13 +4,13 @@
 <h1>LINUX USAGE:</h1>
 <h3><br>git clone https://github.com/AstroBolo/Alexander.git
 <br>cd Alexander
-<br>git checkout 1.00-beta
+<br>git checkout v1.00 
 <br>python3 main.py</h3>
 
 <h1>WINDOWS USAGE:</h1>
 <h3><br>git clone https://github.com/AstroBolo/Alexander.git
 <br>cd Alexander
-<br>git checkout 1.00-beta
+<br>git checkout v1.00
 <br>python main.py</h3>
 
 ![image](https://user-images.githubusercontent.com/73861354/128773122-d5a609be-4534-48d9-9ccc-f8b5d0217e73.png)
