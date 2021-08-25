@@ -28,8 +28,7 @@ def message_probability(user_message, recognised_words, single_response=False, r
         return 0
 
 
-def check_all_messages(message)
-:
+def check_all_messages(message):
     highest_prob_list = {}
 
     def response(bot_response, list_of_words, single_response=False, required_words=[]):
