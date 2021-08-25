@@ -27,4 +27,5 @@
 <br>after doing so Alexander will greet you with your name.
 <br>instead of YOU: for the dialog box it will now show your name
 
-to contact the creator, email him at kinectcode@gmail.com
+<h3>Contact</h3>
+<br>to contact the creator, email him at kinectcode@gmail.com
