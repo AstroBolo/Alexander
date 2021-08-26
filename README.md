@@ -26,6 +26,8 @@
 <br>after the setup phase you will be asked to enter your name.
 <br>after doing so Alexander will greet you with your name.
 <br>instead of YOU: for the dialog box it will now show your name
+<br><h2>Faster Setup Phase</h2>
+<br>the setup phase is alot faster than 1.00
 
 <h3>Contact</h3>
 <br>to contact the creator, email him at kinectcode@gmail.com
