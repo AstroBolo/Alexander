@@ -4,14 +4,14 @@
 <h1>LINUX USAGE:</h1>
 <h3><br>git clone https://github.com/AstroBolo/Alexander.git
 <br>cd Alexander
-<br>pip install -r requirements.txt
+<br>pip3 install -r requirements.txt
 <br>git checkout v1.00 
 <br>python3 main.py</h3>
 
 <h1>WINDOWS USAGE:</h1>
 <h3><br>git clone https://github.com/AstroBolo/Alexander.git
 <br>cd Alexander
-<br>pip3 install -r requirements.txt
+<br>pip install -r requirements.txt
 <br>git checkout v1.00
 <br>python main.py</h3>
 
