@@ -4,6 +4,7 @@ try:
     from art import *
     import time
     import sys
+    from sys import exit
     from time import sleep
     from colorama import Fore
 
@@ -143,4 +144,4 @@ colorama
 To Install Them Open A Terminal And Type pip install [MODULE NAME] for Windows or
 pip3 instal [MODULE NAME] for Linux
         """)
-    sleep(9999)
+    exit()
